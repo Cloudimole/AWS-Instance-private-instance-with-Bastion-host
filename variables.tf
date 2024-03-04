@@ -1,11 +1,11 @@
 variable "access_key" {
 type    = string
-default = "AKIAQR4TEOQRNBIEFZ7K"
+default = "AKIAQR4TEOQRILN4FF5D"
 }
 
 variable "secret_key" {
 type    = string
-default = "CmiHKUvc36dcqU9FzinhcRF5OILKTDMbcBqbpkzK"
+default = "rLxQ2jlBeKkW/ypVcHi7DtKWp2e7gasNiT+1PtDC"
 }
 
 #variable "private_key" {
